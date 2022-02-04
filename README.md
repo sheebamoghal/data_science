@@ -1,2 +1,2 @@
-# data_science
-This is my first repository contains a list of projects I have worked on to improve my understanding of the said subject.
+# linear_regression
+This is the first supervised learning regression model I have used for the data to predict the house prices. 
