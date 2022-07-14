@@ -27,6 +27,4 @@ What did you learn while building this project? What challenges did you face and
 
 ## Appendix
 
-Any additional information goes here
-
 This is the first project I have worked on. 
