@@ -22,7 +22,7 @@ Statsmodels
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+This is the first project I haved worked on, using the basic Linear Regression. It is interesting and was very fulfilling to apply and bring all the theoritical concepts into action. I have tried the same in R, but Python was easier for me to implement. 
 
 
 ## Appendix
